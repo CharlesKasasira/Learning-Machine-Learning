@@ -1,8 +1,10 @@
 # INTRODUCTION TO MACHINE LEARNING
 
+![Types-of-ML](./images/types-of-ml.png)
+
 ### OUTLINE
 
-1. About Machine Learning
+1. [About Machine Learning](./1.%20About%20Machine%20learning.md)
    - 1.1 What is Machine Learning
    - 1.2 Types of ML
    - 1.3 Applications of ML
