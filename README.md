@@ -1,6 +1,6 @@
-# Introduction to Machine Linear
+# INTRODUCTION TO MACHINE LEARNING
 
-### Outline
+### OUTLINE
 
 1. About Machine Learning
    - 1.1 What is Machine Learning
