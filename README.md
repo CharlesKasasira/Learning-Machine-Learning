@@ -8,11 +8,11 @@
    - 1.1 [What is Machine Learning](./1.%20About%20Machine%20learning.md)
    - 1.2 [Types of ML](./1.%20About%20Machine%20learning.md#types-of-ml)
    - 1.3 [Applications of ML](./1.%20About%20Machine%20learning.md#applications-of-machine-learning)
-2. [Data Preprocessing]
-   - 2.1 [Data Cleaning]
-   - 2.2 [Data Transformation]
-   - 2.3 [Data Integration]
-   - 2.3 [Data Reduction]
+2. [Data Preprocessing](./2.%20Data%20processing.md)
+   - 2.1 [Data Cleaning](./2.%20Data%20processing.md#data-cleaning)
+   - 2.2 [Data Transformation](./2.%20Data%20processing.md#data-transformation)
+   - 2.3 [Data Integration](./2.%20Data%20processing.md#data-integration)
+   - 2.3 [Data Reduction](./2.%20Data%20processing.md#data-reduction)
 3. [Supervised Learning]
    - 3.1 [Types of Supervised Learning]
    - 3.2 [Algorithms]
